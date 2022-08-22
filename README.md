@@ -1,2 +1,2 @@
 # Creative ways to use Processing & pygame with the VSCode IDE
-<img align="right" alt="Execution" width="300" src="">
+<img align="right" alt="Execution" width="300" src="Execution.png">
