@@ -55,4 +55,8 @@
 pip install pygame
 ```
 4. Run the program
+5. Use mouse buttons to initialize the `start` point and the `end` point. 
+6. Again use the mouse to make the barriers in the grid.
+7. Once everything is initialized press `Spacebar` to start, you will see that the path is being developed.
+8. You can use `C` to clear the grid and start again.
 
